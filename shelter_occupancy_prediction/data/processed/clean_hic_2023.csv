@@ -1,0 +1,523 @@
+Shelter ID,Year,Shelter Type,Organization,Project Name,City,ZIP,SPA,Capacity,Utilization Rate
+697480,2023,ES,211,City Motel Voucher Program (Vouchers),San Gabriel,91778,3,75,1.0
+697481,2023,ES,211,County Motel Voucher Program (Vouchers),San Gabriel,91778,3,250,1.0
+697349,2023,ES,Behavioral Health Services Inc.,SAPC Interim Housing 136th St,Hawthorne,90250,8,12,0.92
+697350,2023,ES,Behavioral Health Services Inc.,SAPC Interim Housing Crenshaw,Hawthorne,90303,8,12,0.5
+697351,2023,ES,Behavioral Health Services Inc.,SAPC Interim Housing Verde Vista,Pomona,91767,3,9,0.78
+697390,2023,ES,Bridge to Home,Bridge Housing Program SPA 2,Santa Clarita,91350,2,30,0.5
+697288,2023,ES,Bridge to Home,Crisis Housing Program SPA 2,Santa Clarita,91350,2,30,0.67
+697950,2023,TH,Burbank Housing Corporation,Home Front,Burbank ,91504,2,21,0.43
+698185,2023,TH,Burbank Housing Corporation,Jerry's Promise,Burbank,91505,2,14,0.86
+697957,2023,TH,Burbank Housing Corporation,Linden House,Burbank,91502,2,6,1.0
+697947,2023,TH,Burbank Housing Corporation,Puerta Nueva Transitional Facility,Burbank ,91504,2,12,0.92
+698071,2023,TH,Carlos Lopez & Associates LLC,A Bridge Home VA Campus,Los Angeles,90073,5,80,0.68
+697522,2023,ES,City Net,Esperanza Villa Individual Shelter Baldwin Park,Baldwin Park,91706,3,25,0.88
+697511,2023,ES,City Net,Tiny Home Bridge Family Housing Baldwin Park,Baldwin Park,91706,3,50,0.92
+697733,2023,TH,City of Covina,McGill Transitional House,Covina,91722,3,7,1.0
+697313,2023,ES,City of Pomona,CES Bridge Housing Program,Pomona,91766,3,40,0.8
+697259,2023,ES,City of Pomona,CES Crisis Housing SPA 3 VOA,Pomona,91766,3,88,1.05
+697324,2023,ES,City of Pomona,Cities Cohort Crisis Housing,Pomona,91766,3,4,1.0
+697377,2023,ES,City of Pomona,ESG-CV Motel 6 Pomona,Pomona,91766,3,4,1.0
+697285,2023,ES,City of Pomona,PD ESG Crisis Housing,Pomona,91766,3,6,0.5
+697282,2023,ES,City of Pomona,Tri-City Crisis Housing,Pomona,91766,3,20,0.65
+697964,2023,TH,Community's Child Inc.,Building Hope,Lomita ,90717,8,6,1.0
+697503,2023,ES,Divine Healthcare Services Inc.,Recovery Bridge Housing 2211,Signal Hill,90755,7,5,1.0
+697504,2023,ES,Divine Healthcare Services Inc.,Recovery Bridge Housing 2225,Signal Hill,90755,7,4,1.0
+697365,2023,ES,"Exodus Recovery, Inc.",DHS PHK ESG - Motel 6 Baldwin Park,Baldwin Park,91706,3,71,0.61
+697289,2023,ES,"Exodus Recovery, Inc.",DMH Emergency Bridge Housing,Los Angeles,90044,8,133,0.96
+697944,2023,TH,Family Promise of Santa Clarita Valley,Interfaith Hospitality Network,Santa Clarita,91355,2,8,0.75
+697945,2023,TH,Family Promise of the South Bay,Family Promise of the South Bay - Torrance,Torrance,90503,8,15,1.13
+697188,2023,ES,"Fathers and Mothers Who Care, Inc.",Maple House,Compton,90220,6,7,0.43
+697626,2023,TH,First Place for Youth,Transitional Housing Program SPA 8,Inglewood,90302,8,9,0.78
+697271,2023,ES,First To Serve Inc.,DMH Interim Housing Adult Male Center,Los Angeles,90044,8,12,1.0
+697371,2023,ES,First To Serve Inc.,PHK Harbor City Interim Housing,Harbor City,90710,8,54,0.15
+697523,2023,ES,First To Serve Inc.,Winter Shelter Program Long Beach,Long Beach,90804,8,81,0.84
+697487,2023,ES,Harbor Interfaith Services,ESG-CV Torrance Pallet Emergency Shelter Program,Torrance,90503,8,40,0.98
+697383,2023,ES,Harbor Interfaith Services,Redondo Beach Pallet Shelter,Redondo Beach,90278,8,20,1.0
+697619,2023,TH,Hillsides,ILP SPA 3 Youth Moving On,Pasadena,91106,3,10,0.9
+697474,2023,ES,"HOLA Recuperative Care, Inc.",HOLA Recuperative Care,Palmadale,93550,1,55,0.55
+697273,2023,ES,"Holliday's Helping Hands, Inc.",DHS Recuperative Care Torrance,Torrance,90501,8,53,0.6
+697684,2023,TH,Homes for Life Foundation,ILP SPA 3 Athena Homes,Alhambra,91801,3,18,0.89
+697346,2023,ES,Horizon Recuperative Care,Vermont Recuperative Care,Los Angeles,90044,6,30,0.97
+697478,2023,ES,Illumination Foundation,DHS Interim Housing Whittier,Whittier,90604,7,85,0.84
+697525,2023,ES,"Jovenes, Inc.",Bridge Housing Cerritos,Norwalk,90650,7,16,
+697526,2023,ES,"Jovenes, Inc.",Bridge Housing CPP,Pomona,91768,3,14,0.14
+697527,2023,ES,"Jovenes, Inc.",Bridge Housing Mt. SAC,West Covina,91792,3,7,0.57
+697327,2023,ES,"Jovenes, Inc.",CES Bridge Housing Cerritos College Success Initiative,Norwalk,90650,7,12,0.67
+698166,2023,TH,"Jovenes, Inc.",CES Transitional Housing Youth SPA 7 (New),Bellflower,90706,7,23,0.83
+697991,2023,TH,"Jovenes, Inc.",Host Homes Transitional Housing,Norwalk,90650,7,15,0.27
+698269,2023,TH,Just Us 4 Youth,YHDP TH-Joint Component,Pomona,91767,3,20,0.0
+697299,2023,ES,"JWCH Institute, Inc.",DHS Interim Housing MLK,Los Angeles,90059,6,96,0.65
+697341,2023,ES,Los Angeles Center for Alcohol and Drug Abuse (LA CADA),Emergency Housing First Street,Alhambra,91801,3,10,1.0
+697424,2023,ES,Los Angeles Center for Alcohol and Drug Abuse (LA CADA),Recovery Bridge Housing Alhambra House,Alhambra,91803,3,26,1.08
+697286,2023,ES,Los Angeles Center for Alcohol and Drug Abuse (LA CADA),Recovery Bridge Housing Casa Del Corazon,Santa Fe Springs,90670,7,60,1.07
+697284,2023,ES,Los Angeles Center for Alcohol and Drug Abuse (LA CADA),Recovery Bridge Housing Start House,Altadena,91001,3,16,1.31
+697345,2023,ES,Los Angeles Center for Alcohol and Drug Abuse (LA CADA),Residential Treatment Center Allen House,Santa Fe Springs,90670,7,60,0.95
+697287,2023,ES,Los Angeles Center for Alcohol and Drug Abuse (LA CADA),Residential Treatment Facility Alice’s House,Whittier ,90604,7,16,0.69
+697344,2023,ES,Los Angeles Center for Alcohol and Drug Abuse (LA CADA),Residential Treatment Facility Nuestra Casa,South Gate,90280,7,42,0.9
+697232,2023,ES,Los Angeles County Department of Public Social Services (DPSS),Cal Works Homeless Assistance Program 04 El Monte (Vouchers),El Monte,91731,3,229,1.0
+697236,2023,ES,Los Angeles County Department of Public Social Services (DPSS),Cal Works Homeless Assistance Program 05 Belvedere (Vouchers),Los Angeles,90022,7,54,1.0
+697238,2023,ES,Los Angeles County Department of Public Social Services (DPSS),Cal Works Homeless Assistance Program 17 Florence (Vouchers),Los Angeles,90001,7,434,1.0
+697240,2023,ES,Los Angeles County Department of Public Social Services (DPSS),Cal Works Homeless Assistance Program 26 Compton (Vouchers),Compton,90220,6,149,1.0
+697226,2023,ES,Los Angeles County Department of Public Social Services (DPSS),Cal Works Homeless Assistance Program 27 S Central (Vouchers),Los Angeles,90044,6,607,1.0
+697242,2023,ES,Los Angeles County Department of Public Social Services (DPSS),Cal Works Homeless Assistance Program 31 South Family (Vouchers),Compton,90221,8,176,1.0
+697220,2023,ES,Los Angeles County Department of Public Social Services (DPSS),Cal Works Homeless Assistance Program 34 Lancaster (Vouchers),Lancaster,93535,1,680,1.0
+697230,2023,ES,Los Angeles County Department of Public Social Services (DPSS),Cal Works Homeless Assistance Program 36 Pomona (Vouchers),Pomona,91768,3,143,1.0
+697244,2023,ES,Los Angeles County Department of Public Social Services (DPSS),Cal Works Homeless Assistance Program 40 Norwalk (Vouchers),Norwalk,90650,7,71,0.86
+697234,2023,ES,Los Angeles County Department of Public Social Services (DPSS),Cal Works Homeless Assistance Program 51 Santa Clarita (Vouchers),Canyon Country,91351,2,22,1.0
+697483,2023,ES,Los Angeles County Department of Public Social Services (DPSS),Cal Works Homeless Assistance Program Customer Service Centers (Vouchers),La Puente,91746,3,60,1.0
+698241,2023,TH,Men Taking Over Reforming society Inc (M.E.N.TO.R.S),M.E.N.T.O.R.S. Hawthorne,Hawthorne,90250,8,24,
+697315,2023,ES,Mercy House,Bellflower Temporary Emergency Shelter,Bellflower,90706,7,50,0.86
+697165,2023,ES,New Directions for Veterans,CES Bridge Housing Program,Los Angeles,90073,5,5,0.6
+697137,2023,ES,New Directions for Veterans,CES Crisis Housing Program,Los Angeles,90073,5,9,0.22
+697485,2023,ES,New Directions for Veterans,HCHV 257 Bridge Welcome Center,Los Angeles,90073,5,18,0.5
+698016,2023,TH,New Directions for Veterans,VA Clinical Treatment Transitional,Los Angeles,90073,5,68,0.34
+698017,2023,SH,New Directions for Veterans,VA Low Demand Transitional,Los Angeles,90073,5,60,0.9
+697459,2023,ES,New Reflections Inc.,Bridge Housing Roadmap NRI,Los Angeles,90044,8,25,0.6
+697420,2023,ES,New Reflections Inc.,NRI Emergency Shelter 85th Families,Los Angeles,90044,8,7,0.14
+697625,2023,TH,Penny Lane Centers,Cedar Ridge Transitional Housing,Lancaster,93534,1,7,0.43
+697277,2023,ES,Prototypes,DHS Interim Housing,Pomona,91767,3,45,0.67
+697276,2023,ES,Prototypes,DPH Interim Housing RBH - SAPC,Pomona,91767,3,48,0.62
+698277,2023,TH,Safe Place for Youth,RHY Maternity Group Home Program,Inglewood,90301,8,18,0.11
+697875,2023,TH,Sanctuary of Hope,CES Transitional Housing Hope Connections SPA 8,Hawthorne,90250,8,10,0.8
+698271,2023,TH,Sanctuary of Hope,YHDP TH-Joint Component,Ingelwood,90302,8,5,0.4
+697210,2023,ES,"Serenity Recuperative Care, Inc.",DHS Stabilization Cabrillo,Torrance,90501,8,22,0.86
+697379,2023,ES,"Special Service for Groups, Inc.",PHK County Travel Plaza Inn,Compton,90221,6,148,0.64
+697130,2023,ES,"Special Service for Groups, Inc.",SSG FSC Crisis Housing,Los Angeles,90044,8,736,0.96
+698163,2023,TH,Sycamores,CES Transitional Housing Youth (New),West Covina,91792,3,74,0.88
+698164,2023,TH,Sycamores,CES Transitional Housing Youth Families (New),West Covina,91792,3,12,0.75
+697830,2023,TH,Sycamores,ILP 2017ILP28,Altadena,91001,3,6,0.83
+697832,2023,TH,Sycamores,ILP SPA 3 2017ILP25,San Gabriel,91775,3,26,0.73
+697831,2023,TH,Sycamores,ILP SPA 8 2017ILP30,Azusa,91702,3,6,0.5
+697866,2023,SH,The People Concern,CA0527 Westside Safe Haven - Residential Program,Santa Monica,90404,5,25,0.76
+697336,2023,ES,The People Concern,CES Bridge Housing Kensington SPA 1,Lancaster,93536,1,37,0.59
+697167,2023,ES,The People Concern,CES Bridge Housing Program SPA 5,Santa Monica,90404,5,3,0.67
+697162,2023,ES,The People Concern,CES Crisis Housing Program CITY SPA 5,Santa Monica,90404,5,6,1.0
+697334,2023,ES,The People Concern,CES Enhanced Bridge Housing Older Adults SPA 1,Lancaster,93536,1,21,0.76
+697335,2023,ES,The People Concern,CES Enhanced Bridge Housing Single Females SPA 1,Lancaster,93536,1,22,0.59
+697513,2023,ES,The People Concern,COL Interim Housing SPA 1,Lancaster,93536,1,5,0.4
+697136,2023,ES,The People Concern,DHS Interim Housing SOLAR,Compton,90221,6,38,0.5
+697263,2023,ES,The People Concern,DMH Interim Housing Cloverfield/Daybreak,Santa Monica,90404,5,9,1.0
+697343,2023,ES,The People Concern,DMH Interim Housing Kensington,Lancaster,93536,1,27,0.7
+697131,2023,ES,The People Concern,DMH Interim Housing Samoshel,Santa Monica,90401,5,20,0.85
+697267,2023,ES,The People Concern,DMH Interim Housing Turning Point,Santa Monica,90404,5,6,0.67
+697364,2023,ES,The People Concern,Non-DMH Interim Housing Daybreak Residents,Santa Monica,90404,5,16,0.62
+697374,2023,ES,The People Concern,SAMOSHEL Interim Housing,Santa Monica,90401,5,40,0.22
+697387,2023,ES,The People Concern,Turning Point Case Management,Santa Monica,90404,5,34,0.5
+697501,2023,ES,The Salvation Army,Bell Shelter City of Bell,Bell,90201,7,36,0.97
+697508,2023,ES,The Salvation Army,Bell Shelter City of Paramount,Bell,90201,7,12,1.0
+697502,2023,ES,The Salvation Army,Bell Shelter District 1,Bell,90201,7,4,0.5
+697747,2023,TH,The Salvation Army,Bell Shelter Transitional Housing,Bell,90201,7,10,1.1
+697134,2023,ES,The Salvation Army,CES Bridge Housing Program Reserved,Bell,90201,7,19,0.42
+697444,2023,ES,The Salvation Army,CES Crisis Housing Program (New),Bell,90201,7,57,0.89
+697891,2023,TH,The Salvation Army,CES Transitional Housing SPA 1, Palmdale,93550,1,11,0.45
+697268,2023,ES,The Salvation Army,DMH Interim Housing Bell Shelter,Bell,90201,7,95,0.38
+697363,2023,ES,The Salvation Army,DMH Interim Housing Santa Fe Springs,Whittier,90606,7,116,0.24
+697362,2023,ES,The Salvation Army,DMH Interim Housing West Wing,Whittier,90606,7,24,0.25
+697855,2023,TH,The Salvation Army,GPD VA Bridge Housing Program,Bell,90201,7,20,0.1
+697856,2023,TH,The Salvation Army,GPD VA Clinical Treatment,Bell,90201,7,50,0.18
+697854,2023,SH,The Salvation Army,GPD VA Low Demand Safe Haven,Bell,90201,7,30,0.6
+697853,2023,TH,The Salvation Army,GPD VA Service Intensive Transitional Housing Bell Shelter,Bell,90201,7,71,0.52
+697302,2023,ES,The Salvation Army,TSA FSC Westwood Transitional Village Crisis Housing,Los Angeles,90025,5,105,1.01
+697850,2023,TH,The Salvation Army,VA Transitional Housing Westwood,Los Angeles,90025,5,26,0.77
+698127,2023,TH,The Salvation Army,Wellness Center Transitional Housing,Bell,90201,7,36,0.44
+697340,2023,ES,The Salvation Army,Whittier Emergency Shelter,Whittier,90602,7,139,0.01
+697118,2023,ES,The Salvation Army,Whittier Navigation Center,Whittier,90606,7,114,1.0
+697184,2023,ES,The Village Family Services,CES Bridge Housing Program Hope of the Valley,Burbank,91502,2,20,0.9
+697631,2023,TH,The Village Family Services,CES Transitional Housing Program Hope of the Valley SPA 2,Burbank,91502,2,16,1.0
+697430,2023,ES,The Whole Child,TWC FSC Crisis Housing Motel/Hotel Vouchers 2 (Vouchers),Whittier,90603,7,21,1.0
+697360,2023,ES,Timelist Group Inc,DHS Interim Housing Pathway Homes - Holmes,Los Angeles,90002,6,23,0.91
+698026,2023,TH,Total Restoration Ministries,Substance Abuse Recovery,Pomona,91767,3,24,1.0
+697506,2023,ES,Union Rescue Mission,Angeles House,Los Angeles,90061,6,364,
+697472,2023,ES,Union Station Homeless Services,PHK CITY El Monte,El Monte,91731,3,41,1.0
+697475,2023,ES,Union Station Homeless Services,USHS Cities Motel Vouchers (Vouchers),Baldwin Park,91706,3,3,1.0
+697200,2023,ES,Union Station Homeless Services,USHS FSC Crisis Housing Vouchers (Vouchers),Irwindale,91706,3,65,1.0
+698171,2023,TH,United Friends of the Children,CES Transitional Housing Youth SPA 7 (New),Whittier,90604,7,70,0.63
+698176,2023,TH,United Friends of the Children,CES Transitional Housing Youth SPA 8 (New),Los Angeles,90022,7,8,0.88
+697807,2023,TH,United Friends of the Children,ILP SPA 7 Pathways to Independence,Whittier,90604,7,17,0.71
+697436,2023,ES,"United States Veterans Initiative, Inc.",B7 Bridge Housing Program,Inglewood,90301,8,19,0.53
+697796,2023,TH,"United States Veterans Initiative, Inc.",CA0520 Veterans In Progress,Inglewood,90301,8,170,0.73
+697168,2023,ES,"United States Veterans Initiative, Inc.",CES Bridge Housing Program,Inglewood,90301,8,7,0.57
+697142,2023,ES,"United States Veterans Initiative, Inc.",CES Crisis Housing Program,Inglewood,90301,8,14,1.14
+697782,2023,TH,Upward Bound House,CA0518 Family Place Transitional SHP,Santa Monica,90403,5,65,0.88
+697150,2023,ES,Upward Bound House,LA County Emergency Shelter,Culver City ,90066,5,18,0.83
+697124,2023,ES,Upward Bound House,UBH FSC Crisis Housing SPA 5,Culver City ,90066,5,32,0.72
+697301,2023,ES,Valley Oasis,AVD FSC Crisis Housing,Palmdale,93550,1,32,0.94
+697140,2023,ES,Valley Oasis,CES Crisis Housing Program,Lancaster,93536,1,2,0.5
+697992,2023,TH,Valley Oasis,Host Homes Transitional Housing,Lancaster,93535,1,15,0.13
+697471,2023,ES,Volunteers of America of Los Angeles,CES Bridge Housing for Women Awakenings,Whittier,90604,7,19,0.32
+697192,2023,ES,Volunteers of America of Los Angeles,CES Bridge Housing for Women Foley,Whittier,90604,7,40,0.55
+697177,2023,ES,Volunteers of America of Los Angeles,CES Bridge Housing Program SPA 3,Pomona,91767,3,1,1.0
+697435,2023,ES,Volunteers of America of Los Angeles,CES Crisis Housing High Desert MACC,Lancaster,93536,1,93,0.01
+697145,2023,ES,Volunteers of America of Los Angeles,CES Crisis Housing Program SPA 3,Pomona,91767,3,2,1.0
+697538,2023,ES,Volunteers of America of Los Angeles,Family Crisis Housing Project SPA 3 (Vouchers),Pomona,91767,3,6,1.0
+697355,2023,ES,Volunteers of America of Los Angeles,PHK County Motel 6 Hacienda Heights,Hacienda Heights,91745,3,151,0.54
+697904,2023,TH,Volunteers of America of Los Angeles,RHY Transitional Living Program SPA 1,Lancaster,93535,1,8,0.75
+697500,2023,ES,Volunteers of America of Los Angeles,Tiny Home Village Montebello,Montebello,90640,7,30,0.9
+697469,2023,ES,Volunteers of America of Los Angeles,Winter Shelter Program High Desert MACC VOA,Lancaster,93536,1,25,0.92
+697497,2023,ES,Whittier First Day Coalition,B7 Bridge Housing Program (New),Whittier,90602,7,18,0.89
+697531,2023,ES,Whittier First Day Coalition,CES Bridge Housing SPA 7,Whittier,90602,7,16,0.06
+697354,2023,ES,Whittier First Day Coalition,PHK County Motel 6 Whittier,Whittier,90606,7,103,0.11
+697517,2023,ES,Whittier First Day Coalition,Winter Shelter Program Whittier,Whittier,90602,7,8,0.62
+697125,2023,ES,"Catholic Charities of Los Angeles, Inc.",CCL FSC Crisis Housing 14th (Vouchers),Los Angeles,90015,4,2,1.0
+697486,2023,ES,Downtown Womens Center,CES Enhanced Bridge Housing for Women,Los Angeles,90017,4,68,0.79
+697353,2023,ES,"Exodus Recovery, Inc.",DHS Interim Housing Broadway,Los Angeles,90031,4,45,0.69
+697197,2023,ES,First To Serve Inc.,DHS Interim Housing Coronado,Los Angeles,90007,4,124,0.73
+697269,2023,ES,First To Serve Inc.,DMH Interim Housing Coronado,Los Angeles,90007,4,16,0.81
+697537,2023,ES,Hope of the Valley Rescue Mission,FSC PHK 2.0 Alvarado Hotel SPA 4,Los Angeles,90057,4,88,
+697467,2023,ES,Hope of the Valley Rescue Mission,Tiny Home Village Arroyo Seco,Los Angeles,90042,4,115,0.95
+697521,2023,ES,"JWCH Institute, Inc.",Bridge Housing Roadmap New Beginnings/Cypress Park,Los Angeles,90031,4,132,
+697222,2023,ES,Los Angeles County Department of Public Social Services (DPSS),Cal Works Homeless Assistance Program 38 Metro North (Vouchers),Los Angeles,90057,4,197,1.0
+698240,2023,TH,Men Taking Over Reforming society Inc (M.E.N.TO.R.S),M.E.N.T.O.R.S. Butterfly House,Los Angeles,90006,4,55,
+697147,2023,ES,National Health Foundation,CES Crisis Housing Program,Los Angeles,91746,4,7,1.0
+697296,2023,ES,National Health Foundation,CES Enhanced Bridge Housing Older Adults,Los Angeles,91746,4,3,0.33
+697961,2023,TH,New Economics for Women,La Posada,Los Angeles,90017,4,100,1.0
+697274,2023,ES,People Assisting the Homeless (PATH),A Bridge Home Casa Azul,Los Angeles,90057,4,41,0.61
+697309,2023,ES,"Special Service for Groups, Inc.",CES Enhanced Bridge Housing Single Females,Los Angeles,90006,4,20,0.8
+697515,2023,ES,"Special Service for Groups, Inc.",DMH Interim Housing Journey To Wellness,Los Angeles,90042,4,22,0.82
+697204,2023,ES,The Salvation Army,DHS Interim Housing Lilly's Place,Los Angeles,90006,4,32,0.72
+698173,2023,TH,United Friends of the Children,CES Transitional Housing Youth Families SPA 7 (New),Los Angeles,90017,4,12,0.25
+697367,2023,ES,Weingart Center Association,PHK CITY Beacon,Los Angeles,90017,4,91,0.97
+697828,2023,TH,Wellnest Emotional Health & Wellness,ILP SPA 6,Los Angeles,90015,4,28,0.04
+697329,2023,ES,Hope of the Valley Rescue Mission,A Bridge Home Raymer CD2,North Hollywood,91605,2,85,0.61
+697372,2023,ES,Hope of the Valley Rescue Mission,Tiny Home Village Chandler,North Hollywood,91601,2,70,0.67
+697460,2023,ES,Hope of the Valley Rescue Mission,Tiny Home Village Whitsett West,North Hollywood,91605,2,145,0.8
+697201,2023,ES,LA Family Housing Corporation (LAFH),DHS Tyrone Family Crisis Housing,Van Nuys,91405,2,28,1.0
+697689,2023,TH,Volunteers of America of Los Angeles,ILP SPA 2 Womens Care Cottage,North Hollywood,91606,2,30,0.47
+697305,2023,ES,Volunteers of America of Los Angeles,RHY Basic Center - Emergency Shelter Program SPA 2,North Hollywood,91606,2,8,0.12
+698188,2023,TH,Volunteers of America of Los Angeles,RHY Maternity Group Home,North Hollywood,91606,2,28,0.18
+697536,2023,ES,Hope of the Valley Rescue Mission,FSC PHK 2.0 The Woodlands SPA 2,Woodland Hills,91364,2,200,
+697412,2023,ES,Hope of the Valley Rescue Mission,Tiny Home Village Topham,Tarzana,91335,2,76,0.8
+697411,2023,ES,Hope of the Valley Rescue Mission,Tiny Home Village Vanowen,Reseda,91335,2,51,0.86
+697373,2023,ES,LA Family Housing Corporation (LAFH),A Bridge Home Canoga Park,Canoga Park,91304,2,81,0.83
+697464,2023,ES,Tarzana Treatment Center,TTC Housing and Recovery Emergency Shelter,Tarzana,91356,2,8,1.0
+697366,2023,ES,LA Family Housing Corporation (LAFH),PHK CITY Sieroty,Reseda,91335,2,61,0.93
+697332,2023,ES,People Assisting the Homeless (PATH),A Bridge Home Los Feliz CD4,Los Angeles,90027,4,100,0.76
+697406,2023,ES,People Assisting the Homeless (PATH),A Bridge Home PAT FSC Crisis Housing Riverside,Los Angeles,90027,4,80,0.76
+697395,2023,ES,People Assisting the Homeless (PATH),A Bridge Home PAT FSC Crisis Housing Wallis Aviva,Los Angeles,90046,4,30,0.9
+697396,2023,ES,People Assisting the Homeless (PATH),A Bridge Home PAT FSC Crisis Housing Wallis Roadmap,Los Angeles,90046,4,43,1.0
+697524,2023,ES,People Assisting the Homeless (PATH),Bridge Housing City Roadmap Highland Gardens,Los Angeles,90028,4,143,0.41
+697352,2023,ES,"Chabad of California, Inc.",SAPC Interim Housing Ridgeley,Los Angeles,90036,4,30,0.57
+697228,2023,ES,Los Angeles County Department of Public Social Services (DPSS),Cal Works Homeless Assistance Program 60 Rancho Park (Vouchers),Los Angeles,90064,5,398,1.0
+697160,2023,ES,People Assisting the Homeless (PATH),A Bridge Home PAT FSC LA Cienega,Los Angeles,90035,4,40,0.9
+697321,2023,ES,People Assisting the Homeless (PATH),HCHV PATH Cotner Veteran Care Program,Los Angeles,90064,5,30,0.77
+698278,2023,TH,Safe Place for Youth,RHY Transitional Living Program,Los Angeles,90024,5,20,0.3
+698094,2023,TH,Volunteers of America of Los Angeles,GPD VS-90 Service Intense Transitional Housing,Los Angeles,90035,4,51,1.0
+698090,2023,SH,Volunteers of America of Los Angeles,HCHV Recuperative Care Safe Haven,Los Angeles,90035,4,42,1.0
+698089,2023,SH,Volunteers of America of Los Angeles,HCHV Safe Haven Emergency Residential,Los Angeles,90035,4,36,1.0
+697433,2023,ES,Volunteers of America of Los Angeles,RHY Basic Center - Emergency Shelter Program SPA 4,Los Angeles,90004,4,8,0.25
+697461,2023,ES,Community Bridge Housing Corporation,Community House Saticoy,Van Nuys,91406,2,18,0.39
+697418,2023,ES,Community Bridge Housing Corporation,Community House Van Nuys,Van Nuys,91401,2,15,0.87
+697399,2023,ES,Home at Last Community Development Corporation,Bridge Housing City Roadmap Valley Haven,Van Nuys,91405,2,146,0.48
+697338,2023,ES,Hope of the Valley Rescue Mission,A Bridge Home Van Nuys CD2,Van Nuys,91405,2,100,0.72
+697477,2023,ES,Hope of the Valley Rescue Mission,Bridge Housing City Roadmap Trebek Center CD 12,Sun Valley,91352,2,107,0.64
+697425,2023,ES,Hope of the Valley Rescue Mission,City Recovery Motel Vouchers SPA 2 (Vouchers),Van Nuys,91401,2,8,1.0
+697434,2023,ES,Hope of the Valley Rescue Mission,House of Hope,Pacoima,91331,2,12,1.17
+697407,2023,ES,Hope of the Valley Rescue Mission,Tiny Home Village Alexandria Park,North Hollywood,91607,2,195,0.52
+697463,2023,ES,LA Family Housing Corporation (LAFH),Bridge Housing City Roadmap The Taper,North Hollywood,91605,2,49,0.92
+697438,2023,ES,LA Family Housing Corporation (LAFH),CES Bridge Housing Program (New),Los Angeles,91605,2,69,1.04
+697148,2023,ES,LA Family Housing Corporation (LAFH),CES Crisis Housing Program Path to Home,Los Angeles,91605,2,2,1.0
+697295,2023,ES,LA Family Housing Corporation (LAFH),CES Enhanced Bridge Housing Older Adults,Los Angeles,91605,2,25,0.76
+697256,2023,ES,LA Family Housing Corporation (LAFH),DHS Interim Housing,Los Angeles,91605,2,30,1.0
+697185,2023,ES,LA Family Housing Corporation (LAFH),DMH Family Interim Housing,North Hollywood,91605,2,20,1.0
+697138,2023,ES,LA Family Housing Corporation (LAFH),DMH Interim Housing,Los Angeles,91605,2,50,1.0
+697135,2023,ES,LA Family Housing Corporation (LAFH),LFH FSC Crisis Housing SPA 2,North Hollywood,91605,2,392,0.7
+697943,2023,SH,LA Family Housing Corporation (LAFH),VA Low Demand Safe Haven,Los Angeles,91605,2,20,0.9
+697214,2023,ES,Los Angeles County Department of Public Social Services (DPSS),Cal Works Homeless Assistance Program 11 East Valley (Vouchers),Van Nuys,91405,2,209,0.71
+697308,2023,ES,"San Fernando Valley Community Mental Health Center, Inc.",DHS Interim Housing SRO,Van Nuys,91401,2,10,0.6
+697307,2023,ES,"San Fernando Valley Community Mental Health Center, Inc.",DHS Interim Housing Town Homes,Van Nuys,91401,2,28,0.75
+697328,2023,ES,The Salvation Army,A Bridge Home Aetna CD6,Van Nuys,91401,2,74,0.86
+697385,2023,ES,Volunteers of America of Los Angeles,PHK CITY Sepulveda Villa,North Hills,91343,2,49,0.94
+697516,2023,ES,Volunteers of America of Los Angeles,Tiny Home Sun Valley,Sun Valley,91352,2,161,
+697679,2023,TH,Anti-Recidivism Coalition,Supportive Housing and Education Initiative Bromont,Sylmar,91342,2,36,0.78
+697416,2023,ES,Community Bridge Housing Corporation,Community House Sylmar, Sylmar,91342,2,50,0.32
+697496,2023,ES,Hope of the Valley Rescue Mission,B7 Bridge Housing Program SPA 2,Pacoima,91331,2,28,0.96
+697479,2023,ES,Illumination Foundation,DHS Interim Housing Sylmar,Sylmar,91342,2,48,0.73
+697325,2023,ES,LA Family Housing Corporation (LAFH),A Bridge Home Sylmar,Sylmar,91342,2,70,0.76
+697326,2023,ES,LA Family Housing Corporation (LAFH),DHS Recuperative Care Sylmar,Sylmar,91342,2,15,1.0
+697437,2023,ES,LA Family Housing Corporation (LAFH),PHK CITY Encinitas,Sylmar,91342,2,101,0.92
+698168,2023,TH,Penny Lane Centers,CES Transitional Housing Youth (New),North Hills,91343,2,48,0.79
+697207,2023,ES,"Serenity Recuperative Care, Inc.",DHS Recuperative Care Lake View Terrance,Sylmar,91342,2,10,0.7
+697419,2023,ES,A Step to Freedom,DHS ODR Interim Housing,Los Angeles,90003,6,45,1.0
+697465,2023,ES,Assured Lifestyle Housing Inc,Emergency Housing 98th,Los Angeles,90003,6,20,0.8
+697877,2023,TH,Christ-Centered Ministries,Restoration Re-Entry Residence Men,Los Angeles,90003,6,61,1.0
+697186,2023,ES,"Fathers and Mothers Who Care, Inc.",Vernon House,Los Angeles,90062,6,7,0.14
+697170,2023,ES,First To Serve Inc.,CES Bridge Housing Program,Los Angeles,90062,6,20,1.0
+697141,2023,ES,First To Serve Inc.,CES Crisis Housing Program,Los Angeles,90062,6,39,0.97
+697198,2023,ES,First To Serve Inc.,DHS Interim Housing Vernon,Los Angeles,90062,6,75,0.44
+697270,2023,ES,First To Serve Inc.,DMH Interim Housing Family Center,Los Angeles,90037,6,29,0.34
+697272,2023,ES,First To Serve Inc.,DMH Interim Housing for Women,Los Angeles,90037,6,22,0.73
+697462,2023,ES,"Golden State Recuperative Care, Inc.",Recuperative Care,Los Angeles,90061,6,22,0.36
+697293,2023,ES,"Holliday's Helping Hands, Inc.",DHS ODR Recuperative Care 104th,Los Angeles,90003,6,23,0.43
+697255,2023,ES,"Holliday's Helping Hands, Inc.",DHS Recuperative Care Women and Children,Los Angeles,90003,6,20,0.6
+697397,2023,ES,Home at Last Community Development Corporation,Bridge Housing City Roadmap Broadway Matrix,Los Angeles,90003,6,150,0.83
+697534,2023,ES,Home at Last Community Development Corporation,Winter Shelter Program Broadway SPA 6,Los Angeles,90003,6,80,
+697514,2023,ES,Home at Last Community Development Corporation,Winter Shelter Program Western,Los Angeles,90047,6,60,1.0
+697529,2023,ES,"Jovenes, Inc.",Bridge Housing LASC,Los Angeles,90003,6,11,0.55
+697422,2023,ES,New Reflections Inc.,NRI Emergency Shelter 95th Families,Los Angeles,90044,6,11,0.55
+697415,2023,ES,New Reflections Inc.,NRI Emergency Shelter 95th Individuals,Los Angeles,90044,6,9,1.33
+697190,2023,ES,Sanctuary of Hope,CES Bridge Housing Program,Los Angeles,90037,6,9,0.78
+697208,2023,ES,"Serenity Recuperative Care, Inc.",DHS Recuperative Care Los Angeles,Los Angeles,90043,6,20,1.0
+697291,2023,ES,"Special Service for Groups, Inc.",A Bridge Home St. Andrews Place,Los Angeles,90047,6,100,0.92
+697403,2023,ES,"Special Service for Groups, Inc.",Bridge Housing City Roadmap Motorcycle Riders,Los Angeles,90044,8,28,0.71
+697178,2023,ES,"Special Service for Groups, Inc.",CES Bridge Housing Program TCLC,Los Angeles,90062,6,10,0.9
+697146,2023,ES,"Special Service for Groups, Inc.",CES Crisis Housing Program TCLC,Los Angeles,90062,6,20,0.95
+697392,2023,ES,"Special Service for Groups, Inc.",PHK CITY Restoration Apartments,Los Angeles,90018,6,25,0.72
+697400,2023,ES,Testimonial Community Love Center,Bridge Housing City Roadmap South Western,Los Angeles,90062,6,7,0.71
+697440,2023,ES,Testimonial Community Love Center,CES Bridge Housing Program (New),Los Angeles,90062,6,20,1.0
+697441,2023,ES,Testimonial Community Love Center,CES Crisis Housing Program (New),Los Angeles,90062,6,40,1.2
+697257,2023,ES,Testimonial Community Love Center,DMH Interim Housing Program,Los Angeles,90062,6,108,0.28
+697979,2023,TH,The Amaad Institute,House of Resiliency,Los Angeles,90037,6,5,0.4
+697382,2023,ES,Timelist Group Inc,DHS Interim Housing Pathway Homes - 8th Ave,Los Angeles,90043,6,40,0.9
+697888,2023,TH,Upward Bound House,CES Transitional Housing Program SPA 6,Compton,90044,6,21,0.86
+697161,2023,ES,Upward Bound House,UBH FSC Crisis Housing SPA 6,Los Angeles,90003,6,98,0.73
+698272,2023,TH,Upward Bound House,YHDP TH-Joint Component,Los Angeles,90062,6,18,
+697182,2023,ES,Volunteers of America of Los Angeles,CES Bridge Housing Program C4L,Los Angeles,90003,6,40,0.3
+697128,2023,ES,Volunteers of America of Los Angeles,CES Crisis Housing Program C4L,Los Angeles,90003,6,40,0.45
+698276,2023,TH,Volunteers of America of Los Angeles,RHY Transitional Living Program SPA 2,Los Angeles,90043,6,10,0.2
+697495,2023,ES,A Step to Freedom,B7 Bridge Housing Program SPA 6,Los Angeles,90003,6,24,0.46
+697410,2023,ES,Alcott Center for Mental Health Services,DHS Interim Housing Fisher Place,Los Angeles,90037,6,43,0.91
+697466,2023,ES,Assured Lifestyle Housing Inc,Emergency Housing 74th,Los Angeles,90003,6,20,0.2
+697453,2023,ES,Christ-Centered Ministries,DSH (M),Los Angeles,90001,6,20,1.15
+697454,2023,ES,Christ-Centered Ministries,DSH (W),Los Angeles,90001,6,20,0.95
+697455,2023,ES,Christ-Centered Ministries,FIST (M),Los Angeles,90001,6,20,1.1
+697458,2023,ES,Christ-Centered Ministries,Justice (W),Los Angeles,90003,6,20,0.75
+697456,2023,ES,Christ-Centered Ministries,ODR (M),Los Angeles,90001,6,20,0.05
+697457,2023,ES,Christ-Centered Ministries,ODR (W),Los Angeles,90001,6,20,0.8
+697878,2023,TH,Christ-Centered Ministries,Restoration Re-Entry Residence Women,Los Angeles,90003,6,122,1.0
+697447,2023,ES,Christ-Centered Ministries,VIP 1 (M) Interim Housing,Los Angeles,90011,6,20,0.65
+697448,2023,ES,Christ-Centered Ministries,VIP 2 (M) Interim Housing,Los Angeles,90011,6,20,0.7
+697191,2023,ES,Eula's House,DMH Interim Housing,Los Angeles,90037,6,15,1.0
+697187,2023,ES,"Fathers and Mothers Who Care, Inc.",Overnight Accommodation,Los Angeles,90011,6,10,0.3
+697512,2023,ES,First To Serve Inc.,Bridge Housing City Roadmap King Solomon,Los Angeles,90044,6,45,0.36
+697306,2023,ES,First To Serve Inc.,CES Crisis Housing Family,Los Angeles,90003,6,26,0.81
+697499,2023,ES,First To Serve Inc.,DHS Interim Housing 32nd,Los Angeles,90011,6,28,0.43
+697202,2023,ES,First To Serve Inc.,DHS ODR Interim Housing 40th Place - Women,Los Angeles,90037,6,18,0.89
+697398,2023,ES,Home at Last Community Development Corporation,Bridge Housing City Roadmap Central LIV,Los Angeles,90011,6,25,0.92
+697181,2023,ES,Home at Last Community Development Corporation,CES Bridge Housing Program Youth,Los Angeles,90011,6,45,0.24
+697180,2023,ES,Home at Last Community Development Corporation,CES Crisis Housing Program Youth,Los Angeles,90011,6,45,0.58
+697426,2023,ES,LA Global Care,City Recovery Motel Vouchers SPA 6 (Vouchers),Los Angeles,90044,6,7,1.0
+697224,2023,ES,Los Angeles County Department of Public Social Services (DPSS),Cal Works Homeless Assistance Program 13 Metro Family (Vouchers),Los Angeles,90007,6,470,1.0
+697488,2023,ES,Measure of Hearts,Measure of Hearts - 233 E 62nd st,Los Angeles,90003,6,10,
+697489,2023,ES,Measure of Hearts,Measure of Hearts - 235 E 62nd st,Los Angeles,90003,6,10,0.4
+697492,2023,ES,Measure of Hearts,Measure of Hearts - 324 W 46th St,Los Angeles,90037,6,10,0.1
+697493,2023,ES,Measure of Hearts,Measure of Hearts - 326 W 46th St,Los Angeles,90037,6,10,0.1
+697494,2023,ES,Measure of Hearts,Measure of Hearts - 422 E 61st St,Los Angeles,90003,6,10,
+697490,2023,ES,Measure of Hearts,Measure of Hearts - 5838 Bonsallo Ave,Los Angeles,90044,6,10,
+697491,2023,ES,Measure of Hearts,Measure of Hearts 5840 Bonsallo Ave,Los Angeles,90044,6,10,
+697510,2023,ES,Noahs Foundation Inc.,N.O.A.H Emergency Housing,Los Angeles,90037,6,50,0.02
+698184,2023,TH,Noahs Foundation Inc.,N.O.A.H's Transitional Living,Los Angeles,90003,6,22,0.14
+697342,2023,ES,Open Arms Temporary Living,DHS Interim Housing Wesley,Los Angeles,90037,6,56,0.91
+697262,2023,ES,Open Arms Temporary Living,Emergency Housing Independent Living,Los Angeles,90037,6,100,0.48
+697507,2023,ES,Raise A Village LA,Interim Housing Men and Women,Los Angeles,90037,6,20,
+697408,2023,ES,"Special Service for Groups, Inc.",A Bridge Home SSG FSC Crisis Housing Figueroa,Los Angeles,90037,6,30,0.87
+697402,2023,ES,"Special Service for Groups, Inc.",Bridge Housing City Roadmap Abundant Blessings,Los Angeles,90011,4,68,1.0
+697378,2023,ES,"Special Service for Groups, Inc.",CES Bridge Housing Program LAGC,Los Angeles,90044,6,10,0.8
+697179,2023,ES,"Special Service for Groups, Inc.",CES Crisis Housing Program LAGC,Los Angeles,90044,6,60,0.97
+697317,2023,ES,St. Joseph Center,Crisis Housing Family Shelter Safe Landing for Families,Los Angeles,90003,6,40,0.3
+698179,2023,TH,The Amaad Institute,Project Impact,Los Angeles,90003,6,10,0.1
+698178,2023,TH,The Amaad Institute,Resilient Solutions SAMHSA,Los Angeles,90003,6,10,0.4
+697890,2023,TH,The Salvation Army,CES Transitional Housing SPA 5,Los Angeles,90044,6,12,0.75
+697892,2023,TH,The Salvation Army,GPD VA Bridge Housing Program Hope Harbor,Los Angeles,90007,6,5,0.4
+697699,2023,TH,The Salvation Army,GPD VA Clinical Treatment Hope Harbor,Los Angeles,90007,6,42,1.0
+697381,2023,ES,Timelist Group Inc,DHS Interim Housing Pathway Homes - 61st,Los Angeles,90044,6,23,0.83
+697361,2023,ES,Triangle Christian Services,Interim Housing San Pedro,Los Angeles,90003,6,20,0.35
+698002,2023,TH,Upward Bound House,Transitional Housing Bright Futures Youth SPA 6,Los Angeles,90044,6,10,1.1
+697320,2023,ES,Volunteers of America of Los Angeles,A Bridge Home CD 9,Los Angeles,90007,6,100,0.84
+697183,2023,ES,Volunteers of America of Los Angeles,CES Bridge Housing Program P2H,Los Angeles,90037,6,45,0.56
+697121,2023,ES,Volunteers of America of Los Angeles,CES Crisis Housing Program P2H,Los Angeles,90037,6,85,0.58
+697994,2023,TH,Volunteers of America of Los Angeles,RHY Transitional Living Program SPA 6,Los Angeles,90001,6,8,0.75
+697339,2023,ES,1736 Family Crisis Center,A Bridge Home CD 10,Los Angeles,90019,4,15,0.6
+697505,2023,ES,"Abundant Blessings, Inc.",B7 Bridge Housing Program SPA 5,Los Angeles,90016,6,16,0.81
+697518,2023,ES,"Abundant Blessings, Inc.",Winter Shelter Program West View,Los Angeles,90016,6,16,1.0
+697348,2023,ES,Asian American Drug Abuse Program Inc.,SAPC Interim Housing 18th St,Los Angeles,90019,4,10,0.6
+697347,2023,ES,Asian American Drug Abuse Program Inc.,SAPC Interim Housing Bronson,Los Angeles,90018,6,6,0.83
+697910,2023,TH,"Broom Homestead, Inc.",Transitional Housing Edrica's House,Los Angeles,90018,6,22,0.77
+697509,2023,ES,Bryant Temple CDC,B7 Bridge Housing Program,Los Angeles,90008,6,19,0.21
+697283,2023,ES,First To Serve Inc.,DHS Interim Housing Mid City 3 - Crenshaw,Los Angeles,90016,6,40,0.22
+697194,2023,ES,First To Serve Inc.,DHS ODR Interim Housing Mid City 1 - Women and Families,Los Angeles,90016,4,29,0.66
+697196,2023,ES,First To Serve Inc.,DHS ODR Interim Housing Mid City 2 - Men,Los Angeles,90016,6,36,0.69
+698239,2023,TH,Men Taking Over Reforming society Inc (M.E.N.TO.R.S),M.E.N.T.O.R.S. LaBrea,Los Angeles,90019,4,42,
+697261,2023,ES,National Health Foundation,DHS Interim Housing,Los Angeles,90016,6,24,0.54
+697157,2023,ES,People Assisting the Homeless (PATH),PAT FSC Crisis Housing Motel Vouchers (Vouchers),Los Angeles,90018,4,145,1.0
+697357,2023,ES,Reach For The Top,DHS Interim Housing Orange,Los Angeles,90016,6,25,0.96
+697893,2023,TH,Sanctuary of Hope,Measure H Transitional Housing Program SPA 6,Los Angeles,90018,6,13,0.92
+697535,2023,ES,"Special Service for Groups, Inc.",DMH Interim Housing Cedar Lodge,Los Angeles,90016,6,23,0.39
+697388,2023,ES,The People Concern,PHK CITY Mollie Maison,Los Angeles,90016,6,22,0.5
+697375,2023,ES,The Salvation Army,A Bridge Home Lafayette,Los Angeles,90057,4,72,0.71
+698092,2023,SH,Volunteers of America of Los Angeles,HCHV Safe Haven Alvalon,Los Angeles,90010,4,28,0.75
+698117,2023,TH,"Harvest Home, Inc.",Interim Housing Harvest Home,Venice,90291,5,15,0.8
+697311,2023,ES,People Assisting the Homeless (PATH),A Bridge Home Sunset Individuals,Venice,90291,5,100,0.81
+697310,2023,ES,People Assisting the Homeless (PATH),A Bridge Home Sunset Youth,Venice,90291,5,54,0.61
+697993,2023,TH,Safe Place for Youth,Host Homes Transitional Housing,Venice,90291,5,15,0.2
+697116,2023,ES,St. Joseph Center,CES Home Safe Motel Vouchers,Venice,90291,5,2,1.0
+697369,2023,ES,St. Joseph Center,City Recovery Motel Vouchers (Vouchers),Venice,90291,5,8,1.0
+697120,2023,ES,St. Joseph Center,Inside Safe Hotel/Motel Voucher Program,Venice,90291,5,104,1.0
+697449,2023,ES,St. Joseph Center,OFW Motel/Hotel Voucher Program (Vouchers),Venice,90291,5,4,1.0
+697428,2023,ES,St. Joseph Center,STJ FSC Crisis Housing Motel/Hotel Vouchers (Vouchers),Venice,90291,5,64,1.0
+697139,2023,ES,St. Joseph Center,STJ FSC Westminster TLC Venice Community Housing Crisis Housing,Venice,90291,5,19,0.95
+697409,2023,ES,The People Concern,PHK CITY The Layover,Los Angeles,90045,5,44,0.7
+698172,2023,TH,United Friends of the Children,CES Transitional Housing Youth Families SPA 5 (New),Los Angeles,90045,5,2,0.5
+698170,2023,TH,United Friends of the Children,CES Transitional Housing Youth SPA 5 (New),Los Angeles,90045,5,6,0.83
+697995,2023,TH,Venice Community Housing,Transitional Housing Youth SPA 5,Los Angeles,90066,5,20,0.85
+697417,2023,ES,Community Bridge Housing Corporation,Community House Northridge,Northridge,91324,2,24,0.21
+697528,2023,ES,"Jovenes, Inc.",Bridge Housing CSUN,Northridge,91325,2,7,0.71
+697212,2023,ES,Los Angeles County Department of Public Social Services (DPSS),Cal Works Homeless Assistance Program 82 West Valley (Vouchers),Chatsworth,91311,2,94,1.0
+697972,2023,TH,"San Fernando Valley Community Mental Health Center, Inc.",Sylvan Place Co-Op,Van Nuys,91406,2,48,0.44
+697384,2023,ES,Volunteers of America of Los Angeles,PHK CITY Devonshire Lodge,Los Angeles,91311,2,42,0.81
+697171,2023,ES,"Catholic Charities of Los Angeles, Inc.",CES Bridge Housing Program Hawkes,Los Angeles,90026,4,10,0.7
+697172,2023,ES,"Catholic Charities of Los Angeles, Inc.",CES Bridge Housing Program Languille,Los Angeles,90026,4,10,0.8
+697154,2023,ES,"Catholic Charities of Los Angeles, Inc.",CES Crisis Housing Program Languille,Los Angeles,90026,4,20,0.95
+697316,2023,ES,"Catholic Charities of Los Angeles, Inc.",CES Enhanced Bridge Housing Older Adults Hawkes,Los Angeles,90026,4,20,0.6
+697688,2023,TH,"Catholic Charities of Los Angeles, Inc.",Farley Family Transitional Housing,Los Angeles,90026,4,63,1.03
+697173,2023,ES,Covenant House California,CES Bridge Housing Program Youth,Los Angeles,90027,4,20,0.8
+697151,2023,ES,Covenant House California,CES Crisis Housing Program Youth,Los Angeles,90027,4,40,0.88
+698162,2023,TH,Covenant House California,CES Transitional Housing Youth (New),Los Angeles,90027,4,34,0.85
+697530,2023,ES,"Jovenes, Inc.",Bridge Housing LACCD,Los Angeles,90029,4,18,0.39
+697166,2023,ES,Los Angeles LGBT Center,CES Bridge Housing Program Youth,Los Angeles,90038,4,5,1.0
+697143,2023,ES,Los Angeles LGBT Center,CES Crisis Housing Program Youth,Los Angeles,90038,4,9,1.0
+698167,2023,TH,Los Angeles LGBT Center,CES Transitional Housing Youth (New),Los Angeles,90038,4,44,0.93
+697318,2023,ES,Los Angeles LGBT Center,DMH Center Youth Enhanced Emergency Shelter Program,Los Angeles,90038,4,20,1.0
+697683,2023,TH,Los Angeles LGBT Center,RHY Transitional Living Program,Los Angeles,90028,4,14,1.36
+698273,2023,TH,Los Angeles LGBT Center,YHDP TH-Joint Component,Los Angeles,90038,4,8,0.0
+698280,2023,TH,Los Angeles Room and Board,CES Transitional Housing Excelsior,Los Angeles,90029,4,29,
+697452,2023,ES,Los Angeles Youth Network,CES Crisis Housing Program Youth (New),Los Angeles,90028,4,15,0.33
+697451,2023,ES,Los Angeles Youth Network,CES Crisis Housing Unaccompanied Minors (New),Los Angeles,90028,4,8,0.12
+697879,2023,TH,Los Angeles Youth Network,CES Measure H Transitional Housing Youth Program,Los Angeles,90028,4,10,0.9
+697127,2023,ES,Los Angeles Youth Network,CES Transitional Housing Youth Program,Los Angeles,90028,4,17,0.59
+697206,2023,ES,People Assisting the Homeless (PATH),A Bridge Home YWCA,Los Angeles,90038,4,94,0.51
+697312,2023,ES,People Assisting the Homeless (PATH),A Bridge Home YWCA Youth,Los Angeles,90038,4,30,0.4
+697439,2023,ES,People Assisting the Homeless (PATH),CES Bridge Housing Program (New),Los Angeles ,90004,4,49,0.9
+697133,2023,ES,People Assisting the Homeless (PATH),CES Crisis Housing Program Los Angeles,Los Angeles ,90004,4,39,0.64
+698087,2023,TH,People Assisting the Homeless (PATH),El Sereno Transitional Housing,Los Angeles ,90004,4,71,1.06
+698169,2023,TH,St. Anne's Maternity Home,CES Transitional Housing Youth (New),Los Angeles,90026,4,80,0.75
+697690,2023,TH,St. Anne's Maternity Home,ILP SPA 4 Bogen Family Center,Los Angeles,90026,4,24,0.88
+697860,2023,TH,St. Anne's Maternity Home,RHY Transitional Living Program,Los Angeles,90026,4,32,0.75
+697405,2023,ES,The Salvation Army,Bridge Housing City Roadmap Isaiah's House,Los Angeles,90028,4,30,0.8
+697164,2023,ES,The Salvation Army,CES Bridge Housing Program Way In Youth,Los Angeles,90028,4,3,0.33
+697144,2023,ES,The Salvation Army,CES Crisis Housing Way In Youth,Los Angeles,90028,4,5,1.0
+697189,2023,ES,The Salvation Army,Enhanced Emergency Shelter Program The Way In,Los Angeles,90028,4,14,0.86
+697706,2023,TH,The Salvation Army,The Way In Youth Transitional Housing,Los Angeles,90028,4,24,0.83
+697294,2023,ES,The Whole Child,TWC FSC Crisis Housing Safe Families,Los Angeles,90026,4,104,0.74
+697414,2023,ES,Urban Alchemy,Tiny Home Village Echo Park Lake,Los Angeles,90026,4,70,0.63
+697470,2023,ES,Urban Alchemy,Tiny Home Village Westlake,Los Angeles,90057,4,109,0.66
+697389,2023,ES,Volunteers of America of Los Angeles,PHK CITY The Nest,Los Angeles,90004,4,41,0.95
+697482,2023,ES,Weingart Center Association,A Bridge Home Schrader,Los Angeles,90028,4,72,0.86
+697292,2023,ES,Weingart Center Association,CES Bridge Housing for Women Gardner Library,Los Angeles,90046,4,30,0.77
+697323,2023,ES,Harbor Interfaith Services,DHS Interim Housing,San Pedro,90731,4,32,0.94
+697174,2023,ES,"Jovenes, Inc.",CES Bridge Housing Program La Posada Youth,Los Angeles,90033,4,4,1.0
+697155,2023,ES,"Jovenes, Inc.",CES Crisis Housing Program La Posada Youth,Los Angeles,90033,4,8,0.88
+698165,2023,TH,"Jovenes, Inc.",CES Transitional Housing Youth SPA 4 (New),Los Angeles,90033,4,25,0.64
+697370,2023,ES,"Jovenes, Inc.",Los Padrinos Emergency Shelter Women TAY,Los Angeles,90033,4,20,0.7
+697356,2023,ES,"JWCH Institute, Inc.",DHS Interim Housing San Pedro,Los Angeles,90013,4,50,0.64
+697476,2023,ES,"JWCH Institute, Inc.",San Julian Oasis Recuperative Care Program,Los Angeles,90014,4,31,1.0
+697427,2023,ES,LA Global Care,City Recovery Motel Vouchers SPA 4 (Vouchers),Los Angeles,90012,4,7,1.0
+697337,2023,ES,Los Angeles Center for Alcohol and Drug Abuse (LA CADA),Recovery Bridge Housing LA Mission,Los Angeles,90013,4,36,1.42
+697218,2023,ES,Los Angeles County Department of Public Social Services (DPSS),Cal Works Homeless Assistance Program 15 Metro East (Vouchers),Los Angeles,90023,4,123,1.0
+697216,2023,ES,Los Angeles County Department of Public Social Services (DPSS),Cal Works Homeless Assistance Program 66 Licoln Heights (Vouchers),Los Angeles,90032,4,19,1.0
+697519,2023,ES,Los Angeles Homeless Services Authority (LAHSA),Augmented Winter Shelter Motel Vouchers (Vouchers),Los Angeles,90017,4,162,1.0
+697304,2023,ES,Los Angeles House of Ruth,LHR FSC Crisis Housing,Los Angeles,90033,4,35,0.23
+697955,2023,TH,Los Angeles Mission,Anne Douglas Center for Women,Los Angeles,90013,4,35,0.54
+697956,2023,TH,Los Angeles Mission,Fresh Start,Los Angeles,90013,4,150,0.74
+697252,2023,ES,Los Angeles Mission,Overnight Beds for Men,Los Angeles,90013,4,212,0.75
+698281,2023,TH,Los Angeles Room and Board,CES Transitional Housing Dunamis,Los Angeles,90033,4,40,
+697149,2023,ES,Proyecto Pastoral,CES Crisis Housing Program Guadalupe,Los Angeles,90033,4,29,0.9
+697129,2023,ES,Proyecto Pastoral,Womens Shelter Program,Los Angeles,90033,4,15,0.8
+697209,2023,ES,"Serenity Recuperative Care, Inc.",DHS Recuperative Care East LA,Los Angeles,90033,4,24,0.46
+697290,2023,ES,Society of St. Vincent de Paul,CES Bridge Housing Program,Los Angeles,90013,4,28,0.86
+697314,2023,ES,Society of St. Vincent de Paul,DMH Interim Housing,Los Angeles,90013,4,10,0.7
+697298,2023,ES,"Special Service for Groups, Inc.",CES Enhanced Bridge Housing Older Adults,Los Angeles,90003,4,16,0.81
+697175,2023,ES,SRO Housing Corporation,CES Bridge Housing Program,Los Angeles,90013,4,7,0.86
+697163,2023,ES,SRO Housing Corporation,DMH Interim Housing Program,Los Angeles,90013,4,55,0.93
+697132,2023,ES,SRO Housing Corporation,Housing For Health Access Emergency,Los Angeles,90013,4,60,0.88
+697859,2023,TH,SRO Housing Corporation,VA Service Intensive Transitional Housing,Los Angeles,90013,4,60,0.73
+697169,2023,ES,The Midnight Mission,CES Bridge Housing Program,Los Angeles,90014,4,29,1.0
+697442,2023,ES,The Midnight Mission,CES Crisis Housing Program (New),Los Angeles,90014,4,121,1.04
+697199,2023,ES,The Midnight Mission,Healthy Living Program,Los Angeles,90014,4,92,0.61
+697899,2023,TH,The Midnight Mission,Homelight Family Living,Los Angeles,90014,4,35,1.2
+697193,2023,ES,The People Concern,A Bridge Home El Puente,Los Angeles,90012,4,45,0.84
+697443,2023,ES,The People Concern,CES Bridge Housing Program (New),Los Angeles,90013,4,30,0.73
+697152,2023,ES,The People Concern,CES Crisis Housing Program LAMP Village,Los Angeles,90013,4,20,0.95
+697254,2023,ES,The People Concern,DMH Interim Housing The Village,Los Angeles,90013,4,7,0.86
+697122,2023,ES,The People Concern,HAUS,Los Angeles,90013,4,25,0.6
+697117,2023,ES,The People Concern,Inside Safe Hotel/Motel Voucher Program,Los Angeles,90013,4,28,1.0
+697126,2023,ES,The Salvation Army,DMH Interim Housing Zahn,Los Angeles,90015,4,36,1.19
+697303,2023,ES,The Salvation Army,TSA FSC Zahn Memorial Center Crisis Housing,Los Angeles,90015,4,18,0.72
+697123,2023,ES,The Whole Child,TWC FSC Crisis Housing,Los Angeles,90033,4,37,0.59
+697973,2023,TH,Union Rescue Mission,Apprentice,Los Angeles,90013,4,30,0.73
+697974,2023,TH,Union Rescue Mission,Gateway Transitional Men,Los Angeles,90013,4,288,0.26
+697976,2023,TH,Union Rescue Mission,Hope Gardens Family Center,Los Angeles,90013,4,171,1.0
+697264,2023,ES,Union Rescue Mission,Men's Guest Services - Emergency Shelter,Los Angeles,90013,4,130,0.62
+697978,2023,TH,Union Rescue Mission,Residential Recovery Program (CLDP),Los Angeles,90013,4,153,0.85
+697265,2023,ES,Union Rescue Mission,Women's and Children Emergency Beds - 1st STEP Family,Los Angeles,90013,4,404,0.32
+697386,2023,ES,Union Station Homeless Services,PHK CITY Casa Luna,Los Angeles,90032,4,40,0.98
+697391,2023,ES,Union Station Homeless Services,PHK CITY Huntington Villas,Los Angeles,90032,4,50,0.94
+697473,2023,ES,Union Station Homeless Services,Tiny Home Village Eagle Rock,Los Angeles,90041,4,43,0.95
+697532,2023,ES,Volunteers of America of Los Angeles,Bridge Housing City Roadmap Bailey,Los Angeles,90033,4,56,
+697401,2023,ES,Volunteers of America of Los Angeles,Bridge Housing City Roadmap T-House,Los Angeles,90013,4,20,0.8
+697176,2023,ES,Volunteers of America of Los Angeles,CES Bridge Housing Program San Julian,Los Angeles,90013,4,13,1.0
+697153,2023,ES,Volunteers of America of Los Angeles,CES Crisis Housing Program San Julian,Los Angeles,90013,4,27,0.7
+697533,2023,ES,Volunteers of America of Los Angeles,FSC Crisis Housing Roadmap Bailey,Los Angeles,90033,4,10,
+698138,2023,SH,Volunteers of America of Los Angeles,GPD Low Demand Ballington Transitional Housing,Los Angeles ,90014,4,115,1.0
+698093,2023,SH,Volunteers of America of Los Angeles,GPD Low Demand T-House Transitional Housing,Los Angeles,90013,4,3,1.0
+698252,2023,SH,Volunteers of America of Los Angeles,GPD Low Demand Women Special Needs,Los Angeles ,90014,4,5,0.6
+698091,2023,SH,Volunteers of America of Los Angeles,HCHV Safe Haven T-House,Los Angeles,90013,4,93,1.0
+697331,2023,ES,Weingart Center Association,A Bridge Home Civic Center CD14,Los Angeles,90012,4,99,0.86
+697498,2023,ES,Weingart Center Association,B7 Bridge Housing Program,Los Angeles,90013,4,60,0.8
+697393,2023,ES,Weingart Center Association,Bridge Housing Roadmap Vignes,Los Angeles,90012,4,222,0.86
+697394,2023,ES,Weingart Center Association,Bridge Housing Roadmap Vignes Public Defender,Los Angeles,90012,4,10,0.5
+697445,2023,ES,Weingart Center Association,CES Bridge Housing Program (New),Los Angeles,90013,4,37,0.73
+697446,2023,ES,Weingart Center Association,CES Crisis Housing Program (New),Los Angeles,90013,4,63,0.78
+697297,2023,ES,Weingart Center Association,CES Enhanced Bridge Housing Older Adults,Los Angeles,90003,4,10,1.0
+697205,2023,ES,Weingart Center Association,DHS Interim Housing,Los Angeles,90013,4,135,0.69
+697203,2023,ES,Weingart Center Association,DMH Interim Housing,Los Angeles,90013,4,35,0.91
+697376,2023,ES,Weingart Center Association,Enhanced Bridge Housing for Women Roadmap,Los Angeles,90013,4,60,0.98
+697990,2023,TH,Weingart Center Association,LTORR,Los Angeles,90013,4,55,0.6
+697989,2023,TH,Weingart Center Association,STOP Program,Los Angeles,90013,4,35,0.74
+697468,2023,ES,Alcott Center for Mental Health Services,DHS Interim Housing ODR,Los Angeles,90002,6,25,1.0
+697246,2023,ES,Beacon Light Mission and Doors of Hope,Beacon Light Mission ES,Wilimington,90744,8,24,1.0
+697247,2023,ES,Beacon Light Mission and Doors of Hope,Doors of Hope ES,Wilmington,90744,8,24,1.0
+697333,2023,ES,Harbor Interfaith Services,A Bridge Home SPA 8,San Pedro,90731,8,100,0.68
+697894,2023,TH,Harbor Interfaith Services,CES Transitional Housing SPA 8,San Pedro,90731,8,8,0.38
+697368,2023,ES,Harbor Interfaith Services,City Recovery Motel Vouchers (Vouchers),San Pedro,90731,8,8,1.0
+697156,2023,ES,Harbor Interfaith Services,HIS FSC Crisis Housing,San Pedro,90731,8,52,0.25
+697431,2023,ES,Harbor Interfaith Services,HIS FSC Crisis Housing Motel/Hotel Vouchers (Vouchers),San Pedro,90731,8,51,0.75
+698001,2023,TH,Harbor Interfaith Services,You Can Have It A.L.L. (Accelerated Learning and Living),San Pedro,90731,8,15,1.0
+698242,2023,TH,Men Taking Over Reforming society Inc (M.E.N.TO.R.S),M.E.N.T.O.R.S. Torrance,Torrance,90501,8,20,
+697404,2023,ES,"Special Service for Groups, Inc.",Bridge Housing City Roadmap LAGC,Los Angeles,90061,6,4,0.5
+697300,2023,ES,The Salvation Army,A Bridge Home Imperial Hwy,Los Angeles,90059,6,100,0.63
+697413,2023,ES,The Salvation Army,Tiny Home Village Harbor Park,Wilmington,90744,8,75,0.84
+697330,2023,ES,"United States Veterans Initiative, Inc.",A Bridge Home Eubank CD15,Wilmington,90744,8,80,0.92
+697281,2023,ES,Victory Starts Now,DHS Interim Housing 118th,Los Angeles,90061,6,20,1.0
+697275,2023,ES,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,8,27,0.96
+697280,2023,ES,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,8,17,1.0
+697211,2023,ES,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,6,20,0.65
+697967,2023,TH,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,8,9,0.44
+698058,2023,TH,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,8,34,0.88
+697968,2023,TH,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,6,20,1.0
+697963,2023,TH,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,8,2,1.0
+697260,2023,ES,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,4,16,0.38
+697998,2023,TH,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,3,36,0.22
+697250,2023,ES,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,3,20,1.0
+697984,2023,TH,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,6,16,1.0
+697946,2023,TH,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,6,7,1.0
+697248,2023,ES,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,2,42,1.0
+697948,2023,TH,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,2,61,0.92
+697251,2023,ES,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,6,40,0.58
+697951,2023,TH,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,6,74,0.57
+697952,2023,TH,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,4,51,0.39
+697279,2023,ES,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,4,16,1.12
+697958,2023,TH,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,4,24,0.33
+698063,2023,TH,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,2,6,0.83
+698062,2023,TH,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,8,10,0.8
+697966,2023,TH,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,4,10,1.0
+698064,2023,TH,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,4,5,1.0
+697253,2023,ES,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,8,40,0.3
+697969,2023,TH,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,8,36,0.72
+697358,2023,ES,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,7,9,1.0
+697319,2023,ES,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,8,22,0.77
+698061,2023,TH,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,8,24,0.71
+697732,2023,TH,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,4,49,0.88
+697322,2023,ES,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,4,475,0.18
+697985,2023,TH,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,3,11,0.91
+697986,2023,TH,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL,3,35,0.26
